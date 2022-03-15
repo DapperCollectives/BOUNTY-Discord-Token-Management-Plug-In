@@ -26,22 +26,10 @@ After contacting you, we will assess your eligibility to participate in the Prog
 
 To be eligible to participate in the Program, you must meet a number of requirements including being at least 18 years old or have reached the age of majority in your jurisdiction of primary residence and citizenship, and other requirements as detailed in the Bounty Submission Agreement.
 
-If you meet these eligibility requirements and enter into Bounty Submission Agreement with us, you’ll start working on the Bounty in stages or milestones:
+If you meet these eligibility requirements and enter into Bounty Submission Agreement with us, you’ll start working on the Bounty in stages or milestones as outlined in the bounty description.
 
-# Milestones
-Each bounty has been separated into four milestone phases. These phases are outlined in the bounty descriptions and may be different for each individual bounty. Our engineering team will guide the milestone check in process across all phases. This communication will remain public on GitHub to ensure transparency of the process. Our goal is to be a helpful resource throughout this process, doing our best to guide and empower the bounty team. Each milestone will need to be approved by our internal teams before moving on to the next phase and/or receiving payment. 
+For more documentation on the process bounty process, please click here.
 
-# Submitting for approval
-Similar to claiming a bounty, this approval process will also take place by opening an issue on GitHub inside of the specific bounty’s repo. Each milestone phase has its own set of objectives and methods of approval. Our internal team will work through the auditing and QA process, as necessary, and provide feedback. There will be an opportunity to discuss and resolve any issues found during the approval process. If an issue is discovered, we will discuss a timeline for the issue to be addressed and resolved before deeming the milestone unachieved. This will be decided on a case by case basis. 
-If you fail, or have a poor performance at second and third milestones, you will get a chance to address issues once and have a follow-up review. If that follow-up review isn't satisfactory, you will be compensated a "kill fee" for work completed, turn over your work to date, and the bounty can be reassigned to a new team. This will be decided on a case by case basis. 
-
-# Once your bounty milestone is approved
-If you’re at this stage, congratulations! This means your work has been approved and you will be rewarded with the corresponding bounty amount. We will work with you to provide payment in accordance with the Bounty Submission Agreement.
-
-# What happens if a team claims a bounty and then becomes unresponsive?
-We hope this never happens, but in case it does, we’ve developed a tiered approach to give the team a chance to respond before removing their claim on the bounty. If a team has been unreachable and not made any form of official contact with anyone from our engineering team for two weeks then they will be labeled as “on alert.” This designation will be communicated from our team. If an additional two weeks passes, reaching a total of four weeks, with no contact or updates then the bounty claim will be revoked from your team, your work will be forfeited, and the bounty opportunity will be made available to the general public again.
-
-If you have any questions that are not answered here, please reach out to us on Twitter (@DapperCollectives) or to our team member Sage (xoxosageygal#0051) in the Flow/Flowverse discord.
 
 # General Terms
 
