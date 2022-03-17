@@ -4,10 +4,10 @@
 
 
 # Claiming a bounty
-- If you find a bounty that you want to claim, please submit your claim proposal by raising an issue inside of the corresponding repository.
-- This claim proposal should include a PRD that includes all team members, necessary team member information, a point of contact, and why your team is best suited for delivering this bounty. Please ensure that your proposal addresses all milestones outlined in the bounty description.
-- We are aware that the PRD request is also the first milestone in the bounty process. Our aim is to align on expectations and bring the claiming team that much closer to the first reward amount.
-- The first team that submits a claim proposal that is approved by the Dapper Collectives engineering team will have the opportunity to progress to the Bounty Submission Agreement stage. At this point, the bounty will be marked as claimed and we will reach out to the claiming team’s point of contact.
+  1. If you find a bounty that you want to claim, please submit your claim proposal by raising an issue inside of the corresponding repository.
+  2. This claim proposal should include a PRD that includes all team members, necessary team member information, a point of contact, and why your team is best suited for delivering this bounty. Please ensure that your proposal addresses all milestones outlined in the bounty description.
+  3. We are aware that the PRD request is also the first milestone in the bounty process. Our aim is to align on expectations and bring the claiming team that much closer to the first reward amount.
+  4. The first team that submits a claim proposal that is approved by the Dapper Collectives engineering team will have the opportunity to progress to the Bounty Submission Agreement stage. At this point, the bounty will be marked as claimed and we will reach out to the claiming team’s point of contact.
 
 # Next steps
 - Each bounty has been separated into four milestone phases. These phases are outlined in the bounty descriptions and may be different for each individual bounty.
@@ -15,10 +15,10 @@
 - Each milestone will need to be approved by our internal teams before moving on to the next phase and/or receiving payment.
 
 # Submitting for approval
-- Similar to claiming a bounty, this approval process will also take place through raising an issue on Github inside of the specific bounty’s repository. Each milestone phase has its own set of objectives and methods of approval.
-- Our internal team will work through the auditing and QA process, as necessary, and provide feedback. There will be an opportunity to discuss and resolve any issues found during the approval process.
-- If an issue is discovered, we will discuss a timeline for the issue to be addressed and resolved before deeming the milestone unachieved. This will be decided on a case by case basis.
-- If you fail, or have a poor performance at second and third milestones, you will get a chance to address issues once and have a follow-up review. If that follow-up review isn't satisfactory, you will be compensated a "kill fee" for work completed, turn over your work to date, and the bounty can be reassigned to a new team. This will be decided on a case by case basis.
+  1. Similar to claiming a bounty, this approval process will also take place through raising an issue on Github inside of the specific bounty’s repository. Each milestone phase has its own set of objectives and methods of approval.
+  2. Our internal team will work through the auditing and QA process, as necessary, and provide feedback. There will be an opportunity to discuss and resolve any issues found during the approval process.
+  3. If an issue is discovered, we will discuss a timeline for the issue to be addressed and resolved before deeming the milestone unachieved. This will be decided on a case by case basis.
+  4. If you fail, or have a poor performance at second and third milestones, you will get a chance to address issues once and have a follow-up review. If that follow-up review isn't satisfactory, you will be compensated a "kill fee" for work completed, turn over your work to date, and the bounty can be reassigned to a new team. This will be decided on a case by case basis.
 
 # Once your bounty milestone is approved
 If you’re at this stage, congratulations! This means your work has been approved and you will be rewarded with the corresponding bounty amount. We will work with you to provide payment within thirty days of approved completion.
