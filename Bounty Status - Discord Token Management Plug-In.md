@@ -1,4 +1,7 @@
 
+# Bounty Status
+- Not Claimed
+
 # Milestone Status
 
 | Phase         | Status        | Team            |
