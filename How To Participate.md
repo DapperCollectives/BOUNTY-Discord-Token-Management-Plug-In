@@ -23,12 +23,13 @@
 # Once your bounty milestone is approved
 If you’re at this stage, congratulations! This means your work has been approved and you will be rewarded with the corresponding bounty amount. We will work with you to provide payment within thirty days of approved completion.
 
-# Payment Process
+# Receiving payment 
 Upon milestone completion, you may submit an invoice to [dc-finance@dapperlabs.com](mailto:dc-finance@dapperlabs.com) for payment. Invoices must be detailed and include full name, address, contact information, bounty name, milestone number and wallet address.
 
-# What happens if a team claims a bounty and then becomes unresponsive?**
+# What happens if a team claims a bounty and then becomes unresponsive?
 We hope this never happens, but in case it does, we’ve developed a tiered approach to give the team a chance to respond before removing their claim on the bounty. 
 
 If a team has been unreachable and not made any form of official contact with anyone from our engineering team for two weeks then they will be labeled as “on alert.” This designation will be communicated from our team. If an additional two weeks passes, reaching a total of four weeks, with no contact or updates then the bounty claim will be revoked from your team, your work will be forfeited, and the bounty opportunity will be made available to the general public again.
 
+# More questions?
 If you have any questions that are not answered here, please reach out to us on Twitter (@_Collectives_) or to our team member Sage (xoxosageygal#0051) in the Flow and/or Flowverse discord.
