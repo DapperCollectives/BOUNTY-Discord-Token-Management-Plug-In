@@ -35,3 +35,5 @@
    - Due within 4 weeks from assignment of project; teams that do not meet their deadlines will be at risk of having their bounty reassigned
    - 25% of the total bounty reward will be paid upon completion of this milestone
    - Upon reaching Milestone 4, the codebase for the plug-in must be turned over to Dapper Collectives for final deployment
+
+
