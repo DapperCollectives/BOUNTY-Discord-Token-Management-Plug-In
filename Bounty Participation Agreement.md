@@ -20,6 +20,8 @@ All PRDs and all other content or materials submitted by you as part of this Pro
 
 The first team that submits a claim proposal via GitHub that is approved by the Dapper Collectives engineering team will have the opportunity to progress to the Bounty Submission Agreement stage. At this point, the bounty will be marked as claimed on all platforms. Once the bounty is claimed, we will contact the team whose PRD is approved to enter into a Bounty Submission Agreement. 
 
+To clarify, until such time that you enter into a fully-executed Bounty Submission Agreement with Dapper Collectives, Dapper Labs is under no obligation to compensate you for the public submissions you make during the Request for Proposal period.
+
 # Bounty Submission Agreement
 
 After contacting you, we will assess your eligibility to participate in the Program, based on compliance with applicable law and the ability to successfully pay you through an appropriate payment provider. 
