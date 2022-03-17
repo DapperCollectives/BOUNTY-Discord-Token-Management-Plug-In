@@ -1,6 +1,6 @@
 # Overview
 
-The Discord Token Management Plugin is a tool for community managers and DAO founders who want to build on the Flow network. This plug-in would allow community managers to establish token-gated Discords, map Flow wallet addresses to Discord User IDs, and keep track of user activities in order to retroactively distribute rewards to active community members.
+The Discord Token Management Plug-in is a tool for community managers and DAO founders who want to build on the Flow network. This plug-in would allow community managers to establish token-gated Discords, map Flow wallet addresses to Discord User IDs, and keep track of user activities in order to retroactively distribute rewards to active community members.
 
 The plug-in should be simple and straightforward to set up and use throughout the lifespan of a Discord community, from its earliest beginnings to scaling up to thousands of users. 
 
@@ -11,7 +11,7 @@ The admin of a community should be able to use the plug-in to accomplish the fol
   - Run a command to generate a ranking of community members based on that algorithm
   - Export a CSV file of the community rankings
 
-Key Features for Initial Release
+# Key Features for Initial Release
   - Ability to token-gate access to a Discord server using Fungible or Non-Fungible Tokens on Flow
   - Ability to connect/correlate Flow wallet addresses to Discord User IDs
   - Ability to rank users based on their activities within Discord
@@ -23,7 +23,7 @@ Key Features for Initial Release
  - https://sourcecred.io/
 
 # Project Bounty
- - $20,000 USD to be paid out in equivalent value of $FLOW tokens in 25% installments across each milestone
+ - $20,000 USD to be paid out in the equivalent value of $FLOW tokens in 25% installments across each milestone
 
 # Bounty Overview
 
@@ -31,17 +31,17 @@ We’re looking for small teams of experienced engineers and product designers w
 
 For the Discord Token Management Plugin project, the milestones are:
 
-1. Product Requirements Documentation and Tech Spec Review
+1. Product Requirements Documentation and Tech Spec Review + Acceptance
    - Provide a thorough PRD for how the plug-in will work and associated technical documentation for how the product will be built. This should include a maintenance plan for the code once deployed.
    - Review the documentation with members of the Dapper Collectives team to collect feedback and ensure the viability of the implementation
    - Due within 10-14 days from assignment of project; teams that do not meet their deadlines will be at risk of having their bounty reassigned
    - 25% of the total bounty reward will be paid upon completion of this milestone
-2. Front-End Prototype Review
+2. Front-End Prototype Review + Acceptance
    - Provide a clickable prototype of the plug-in front-end that clearly illustrates the anticipated user flows for a production build
    - Review the front-end prototype with members of the Dapper Collectives team to collect UI/UX feedback
    - Due within 6-10 weeks from assignment of project; teams that do not meet their deadlines will be at risk of having their bounty reassigned
    - 25% of the total bounty reward will be paid upon completion of this milestone
-3. Back-End Codebase Review
+3. Back-End Codebase Review + Acceptance
    - Walk through the technical implementation of the back-end of the plug-in
    - Review with members of the Dapper Collectives team to collect feedback and ensure viability of the implementation
    - Due within 6-10 weeks from assignment of project; teams that do not meet their deadlines will be at risk of having their bounty reassigned
