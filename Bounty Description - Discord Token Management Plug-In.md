@@ -1,21 +1,17 @@
 # Overview
 
-The Discord Token Management Plug-in is a tool for community managers and DAO founders who want to build on the Flow network. This plug-in would allow community managers to establish token-gated Discords, map Flow wallet addresses to Discord User IDs, and keep track of user activities in order to retroactively distribute rewards to active community members.
+The Discord Token Management Plug-in is a tool for community managers and DAO founders who want to build on the Flow network. This plug-in would allow community managers to establish token-gated Discords, map Flow wallet addresses to Discord User IDs, and update token requirements for access over time.
 
 The plug-in should be simple and straightforward to set up and use throughout the lifespan of a Discord community, from its earliest beginnings to scaling up to thousands of users. 
 
 The admin of a community should be able to use the plug-in to accomplish the following:
   - Install the plug-in to their Discord server and set up basic parameters for access 
   - Manage and update the token-gating mechanism to change requirements over time
-  - Set up a rewards system by choosing which in-Discord activities to track and what weight to give them
-  - Run a command to generate a ranking of community members based on that algorithm
-  - Export a CSV file of the community rankings
+
 
 # Key Features for Initial Release
   - Ability to token-gate access to a Discord server using Fungible or Non-Fungible Tokens on Flow
   - Ability to connect/correlate Flow wallet addresses to Discord User IDs
-  - Ability to rank users based on their activities within Discord
-  - Ability to calculate rewards owed to users based on their respective rank
   - Intuitive landing page with thorough documentation on how to use the plug-in
 
 # Comparables
