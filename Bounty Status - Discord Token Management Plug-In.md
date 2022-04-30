@@ -1,6 +1,6 @@
 
 # Bounty Status
-- Not Claimed
+- CLAIMED
 
 # Milestone Status
 | Phase | Status     | Team         | Milestone start date | Milestone due date | Milestone met date |
