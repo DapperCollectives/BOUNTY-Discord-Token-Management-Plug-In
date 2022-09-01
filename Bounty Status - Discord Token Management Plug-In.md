@@ -7,8 +7,8 @@
 |-------|------------|--------------|----------------------|--------------------|--------------------|
 | One   | COMPLETE   | Emerald City | Mar 29               | Apr 25             | Apr 25             |
 | Two   | COMPLETE   | Emerald City | Apr 22               | Jun 06             | May 26             |
-| Three | COMPLETE   | Emerald City | Jun 27               | July 29            | July 20            |
-| Four  | Incomplete |              |                      |                    |                    |
+| Three | COMPLETE   | Emerald City | Jun 27               | Jul 29             | Jul 20             |
+| Four  | COMPLETE   | Emerald City | Jul 20               | Sep 01             | Sep 01             |
 
 # Milestone Phases
 1. Product Requirements Documentation and Tech Spec Review + Acceptance
